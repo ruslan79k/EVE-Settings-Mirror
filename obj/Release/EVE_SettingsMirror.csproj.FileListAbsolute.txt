@@ -1,0 +1,9 @@
+D:\Programming\C#\Projects\EVE_SettingsMirror\EVE_SettingsMirror\bin\Release\EVE_SettingsMirror.exe.config
+D:\Programming\C#\Projects\EVE_SettingsMirror\EVE_SettingsMirror\bin\Release\EVE_SettingsMirror.exe
+D:\Programming\C#\Projects\EVE_SettingsMirror\EVE_SettingsMirror\bin\Release\EVE_SettingsMirror.pdb
+D:\Programming\C#\Projects\EVE_SettingsMirror\EVE_SettingsMirror\obj\Release\EVE_SettingsMirror.csprojResolveAssemblyReference.cache
+D:\Programming\C#\Projects\EVE_SettingsMirror\EVE_SettingsMirror\obj\Release\EVE_SettingsMirror.Form1.resources
+D:\Programming\C#\Projects\EVE_SettingsMirror\EVE_SettingsMirror\obj\Release\EVE_SettingsMirror.Properties.Resources.resources
+D:\Programming\C#\Projects\EVE_SettingsMirror\EVE_SettingsMirror\obj\Release\EVE_SettingsMirror.csproj.GenerateResource.Cache
+D:\Programming\C#\Projects\EVE_SettingsMirror\EVE_SettingsMirror\obj\Release\EVE_SettingsMirror.exe
+D:\Programming\C#\Projects\EVE_SettingsMirror\EVE_SettingsMirror\obj\Release\EVE_SettingsMirror.pdb
